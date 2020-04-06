@@ -1,0 +1,12 @@
+insert into ucenik values(0, "Marko", "Markovic");
+insert into ucenik values(0, "Pera", "Peric");
+insert into roditelj values(0, "Markov", "Tata", 1);
+insert into roditelj values(0, "Perin", "Tata", 2);
+insert into zadatak values(0, '1000-01-01 00:00:00', "Matematika", '1000-01-01 00:00:00', "Kontrolni");
+insert into zadatak values(0, '1000-01-01 00:00:00', "Hemija", '1000-01-01 00:00:00', "Test");
+insert into zadatak values(0, '1000-01-01 00:00:00', "Hemija2", '1000-01-01 00:00:00', "Test");
+insert into rezultat values(0, "nesto", 10, 1, 2);
+insert into rezultat values(0, "nesto", 10, 1, 2);
+insert into rezultat values(0, "nesto", 10, 1, 2);
+insert into rezultat values(0, "nesto", 6, 2, 2);
+insert into rezultat values(0, "nesto", 6, 2, 2);
